@@ -2,7 +2,7 @@
   "name": "bd-store",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shahsaminyasar.github.io/bd-store",
+  "homepage": "https://shahsaminyasar.github.io/bd-store/public/index.html",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
